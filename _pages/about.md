@@ -9,14 +9,23 @@ redirect_from:
 Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). He earned his B.Eng. in Software Engineering from the Outstanding Engineer Program at South China University of Technology in 2022. His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
 
-Getting started
+Research Paper
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+
+### First-Author Papers
+- arXiv 2025 **Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples**, **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Zheng Wang, W. K. Chan.
+- QRS 2025 **Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions**, **Qilin Zhou**, Haipeng Wang, Zhengyuan Wei, W. K. Chan.
+- FSE 2024 **CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models**, **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan.
+- ASE-NIER 2023 **A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models**, **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.
+
+### Co-Authored Papers
+- TOSEM 2024 Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan.
+- SANER 2024 Delving into parameter-efficient fine-tuning in code change learning: An empirical study, Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao.
+- QRS 2023 Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models, Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan.
+- In Submission A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models, Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan.
+
+
 
 Site-wide configuration
 ------
