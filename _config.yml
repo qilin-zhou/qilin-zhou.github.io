@@ -30,7 +30,7 @@ author:
   location         : # "Earth"
   employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : # "my_first_name.my_last_name@my.cityu.edu.hk; cs.my_first_name.my_last_name@gmail.com" 
+  email            : my_first_name.my_last_name@my.cityu.edu.hk; cs.my_first_name.my_last_name@gmail.com 
 
   # Academic websites
   academia         : # URL
