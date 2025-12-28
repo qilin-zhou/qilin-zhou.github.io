@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Test title"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Qilin Zhou is currently a 4th-year PhD candidate in the Department of Computer Science at the City University of Hong Kong. He earned his B.Eng. in Software Engineering from the Outstanding Engineers Program at South China University of Technology. His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
+Qilin Zhou is a 4th-year PhD candidate in the Department of Computer Science at the City University of Hong Kong, supervised by [Professor Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). He earned his B.Eng. in Software Engineering from the Outstanding Engineer Program at South China University of Technology. His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
 A data-driven personal website
 ======
