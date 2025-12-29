@@ -20,7 +20,7 @@ Publications
 - [**ASE-NIER 2023**] 2023 A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models, **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <font color=Orange>(CCF A)</font>
 
 ### Co-Authored Papers
-- [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. <font color=Orange>(CCF A)</font>
+- [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. <font color=Orange>(JCR Q1, CCF A)</font>
 - [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study, Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. <font color=Orange>(CCF B)</font>
 - [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models, Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan. <font color=Orange>(CCF C)</font>
 - A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models, Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan. <font color=Orange>In submission</font>
