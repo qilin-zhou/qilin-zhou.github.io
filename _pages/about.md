@@ -46,11 +46,12 @@ Education
 
 **PhD in Computer Science** <span style="float: right; font-style: italic;">2022 - present</span>  
 City University of Hong Kong 
-<!-- <span style="float: right; font-size: 90%; color: gray; font-style: italic;">Passed the Qualifying Exam</span> -->
+* **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)
 
-
-**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right; font-style: italic;">2018 - 2022</span>  
+**B.Eng. in Software Engineering (Outstanding Class)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
 South China University of Technology
+* **Minor:** Finance
+* **Honors:** University Scholarship
 
 Experiences
 ======
