@@ -46,3 +46,14 @@ Experiences
 
 **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021  
 <i><span style="font-size: 90%;"> UI automated testing.</span></i>
+
+Education
+======
+
+**PhD in Computer Science** <span style="float: right;">2022–present</span>  
+City University of Hong Kong <span style="float: right; font-size: 90%; color: gray; font-style: italic;">Passed the Qualifying Exam</span>
+
+<br>
+
+**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right;">2018–2022</span> 
+South China University of Technology <span style="float: right; font-size: 90%; color: gray; font-style: italic;">GPA: 3.51/4</span>
