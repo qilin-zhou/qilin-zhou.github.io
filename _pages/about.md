@@ -21,7 +21,7 @@ Publications
 - [**FSE 2024**] CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models  
   **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan. <font color=Orange>(CCF A)</font>
 - [**ASE-NIER 2023**] 2023 A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <font color=Orange>(CCF A)</font>
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <font color=Orange>(CCF A, short paper)</font>
 
 ### Co-Authored Papers
 - [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models  
