@@ -42,7 +42,7 @@ Experiences
 ======
 
 **Alibaba** | Software Design Engineer in Test (SDET) | summer intern (with return offer) | Jul 2021 - Sep 2021  
-Daily project quality assurance and full-stack development of automated testing platform.
+<small>Daily project quality assurance and full-stack development of automated testing platform.<small>
 
 **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021  
-UI automated testing.
+<small>UI automated testing.<small>
