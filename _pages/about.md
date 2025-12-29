@@ -62,6 +62,7 @@ Experiences
 
 Teaching
 ======
+**Languages**: Cantonese (Native), Mandarin (Native), English (Fluent/Professional Proficiency)
 - CityU CS2311 **Computer Programming** <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  
   <i>Head TA, Tutor of Tutorials</i>
 - CityU CS5351 **Software Engineering** <span style="float: right; font-style: italic;">2024-2025/2025-2026 Sem A  </span>  
