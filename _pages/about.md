@@ -41,12 +41,12 @@ _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
 Education
 ======
 
-**PhD in Computer Science** <span style="float: right;">2022–present</span>  
+**PhD in Computer Science** <span style="float: right;"; font-style: italic;>2022–present</span>  
 City University of Hong Kong 
 <!-- <span style="float: right; font-size: 90%; color: gray; font-style: italic;">Passed the Qualifying Exam</span> -->
 
 
-**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right;">2018–2022</span>  
+**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right;"; font-style: italic;>2018–2022</span>  
 South China University of Technology
 
 Experiences
@@ -57,4 +57,6 @@ Experiences
 
 **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021  
 <i><span style="font-size: 90%;"> UI automated testing.</span></i>
+
+
 
