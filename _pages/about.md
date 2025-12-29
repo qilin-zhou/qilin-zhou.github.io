@@ -10,7 +10,7 @@ I am a 4th-year PhD candidate in the [Department of Computer Science at City Uni
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**.
 
-I am a native speaker of Cantonese and Mandarin, with professional working proficiency in English.
+I am a native speaker of both Cantonese and Mandarin, with professional working proficiency in English.
 
 <br>
 
@@ -48,7 +48,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
 Education
 ======
 
-**Ph.D. in Computer Science** <span style="float: right; font-style: italic;">2022 - present (Expected 2026)</span>  
+**Ph.D. in Computer Science** <span style="float: right; font-style: italic;">2022 - Present (Expected 2026)</span>  
 City University of Hong Kong 
 * **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)
 
