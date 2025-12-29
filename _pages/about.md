@@ -24,7 +24,7 @@ _IEEE transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
   **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan.  
   _Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE_ <span style="color: Orange;"> (CCF A)</span>
 - [**ASE-NIER 2023**] A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
   _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ <span style="color: Orange;"> (CCF A, short paper)</span>
 
 ### Co-Authored Papers
