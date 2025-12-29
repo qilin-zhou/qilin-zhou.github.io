@@ -63,17 +63,18 @@ Experiences
 Teaching
 ======
 **Languages**: Cantonese (Native), Mandarin (Native), English (Fluent/Professional Proficiency)
-- CityU CS2311 **Computer Programming** <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  
+- CityU CS2311 **Computer Programming**
+ <!--  <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  -->
   <i>Head TA, Tutor of Tutorials</i>
-- CityU CS5351 **Software Engineering** <span style="float: right; font-style: italic;">2024-2025/2025-2026 Sem A  </span>  
+- CityU CS5351 **Software Engineering**
   <i>Head TA, Tutor of Tutorials</i>
-- CityU CS2311 **Computer Programming**<span style="float: right; font-style: italic;"> 2023-2024 Sem B  </span>  
+- CityU CS2311 **Computer Programming**, 2023-2024 Sem B  
   <i>TA, Tutor of Tutorials</i>
-- CityU CS5351 **Software Engineering**<span style="float: right; font-style: italic;"> 2023-2024 Sem A  </span>  
+- CityU CS5351 **Software Engineering**, 2023-2024 Sem A
   <i>TA, Tutor of Tutorials</i>
-- CityU CS5348 **Software Quality Engineering** <span style="float: right; font-style: italic;">2022-2023 Sem B  </span>  
+- CityU CS5348 **Software Quality Engineering**, 2022-2023 Sem B
   <i>TA</i>
-- CityU CS3346 **Software Testing and Maintenance** <span style="float: right; font-style: italic;">2022-2023 Sem A  </span>  
+- CityU CS3346 **Software Testing and Maintenance**, 2022-2023 Sem A
   <i>TA</i>
 
 
