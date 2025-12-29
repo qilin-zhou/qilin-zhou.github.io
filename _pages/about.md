@@ -24,23 +24,23 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
 -  Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
   **<ins>Qilin Zhou</ins>**, Haipeng Wang, Zhengyuan Wei, W. K. Chan.  
   _2025 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2025**)<span style="color: Orange;"> (CCF C)</span>
-- [**FSE 2024**] CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models    <span style="color: grey;">[[PDF](https://arxiv.org/abs/2405.07668)] [[DOI](https://doi.org/10.1145/3660827)]</span>  
+- CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models    <span style="color: grey;">[[PDF](https://arxiv.org/abs/2405.07668)] [[DOI](https://doi.org/10.1145/3660827)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan.  
-  _Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE_ <span style="color: Orange;"> (CCF A)</span>
-- [**ASE-NIER 2023**] A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
+  _Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE_ (**FSE 2024**) <span style="color: Orange;"> (CCF A)</span>
+- A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
-  _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ <span style="color: Orange;"> (CCF A, short paper)</span>
+  _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ <span style="color: Orange;"> (**ASE-NIER 2023**)(CCF A, short paper)</span>
 
 ### Co-Authored Papers
-- [**TOSEM 2024**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
+- Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
-  _ACM Transactions on Software Engineering and Methodology_ <span style="color: Orange;"> (JCR Q1, CCF A)</span>
-- [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
+  _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1, CCF A)</span>
+- Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
   Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yihan Liao.  
-  _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ <span style="color: Orange;"> (CCF B)</span> 
-- [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
+  _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ (**SANER 2024**) <span style="color: Orange;"> (CCF B)</span> 
+- Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
- _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
+ _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (**QRS 2023**) (CCF C)</span>
 
 
 Education
