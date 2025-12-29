@@ -24,11 +24,11 @@ Publications
   **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. </span> color=Orange>(CCF A, short paper)</span>
 
 ### Co-Authored Papers
-- [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models  
-  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. </span> color=Orange>(JCR Q1, CCF A)</span>  <span style="color: grey;">[Arxiv][DOI]</span>  
-- [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study  
-  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. </span> color=Orange>(CCF B)</span>  <span style="color: grey;">[Arxiv][DOI]</span>  
-- [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models    <span style="color: grey;">[Arxiv][DOI]</span>  
+- [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>    
+  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. </span> color=Orange>(JCR Q1, CCF A)</span>
+- [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[Arxiv][DOI]</span>  
+  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. </span> color=Orange>(CCF B)</span>   
+- [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>  
   Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan. </span> color=Orange>(CCF C)</span>
 - A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models  
   Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan. </span> color=Orange>In submission</span>  <span style="color: grey;">[Arxiv][DOI]</span>
