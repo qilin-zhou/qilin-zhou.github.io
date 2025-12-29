@@ -48,7 +48,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
 Education
 ======
 
-**PhD in Computer Science** <span style="float: right; font-style: italic;">2022 - present</span>  
+**Ph.D. in Computer Science** <span style="float: right; font-style: italic;">2022 - present (Expected 2026)</span>  
 City University of Hong Kong 
 * **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)
 
