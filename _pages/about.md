@@ -14,22 +14,22 @@ Publications
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ### First-Author Papers
-- [**T-Rel (2025)**] Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan. <font color=Orange>(JCR Q1, CCF C)</font>
+- [**T-Rel (Just Accpeted)**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples  
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan. <font color=Orange>(JCR Q1, CCF C)</font> <font color=grey> [Arxiv](https://www.arxiv.org/abs/2512.06123) </font>
 - [**QRS 2025**] Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions  
-  **Qilin Zhou**, Haipeng Wang, Zhengyuan Wei, W. K. Chan. <font color=Orange>(CCF C)</font>
+  **Qilin Zhou**, Haipeng Wang, Zhengyuan Wei, W. K. Chan. <font color=Orange>(CCF C)</font> <font color=grey> [Arxiv](https://arxiv.org/abs/2507.23335) [DOI](10.1109/QRS65678.2025.00030) </font>
 - [**FSE 2024**] CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan. <font color=Orange>(CCF A)</font>
-- [**ASE-NIER 2023**] 2023 A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <font color=Orange>(CCF A, short paper)</font>
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan. <font color=Orange>(CCF A)</font> <font color=grey>[Arxiv](https://arxiv.org/abs/2405.07668) [DOI](10.1145/3660827)</font>
+- [**ASE-NIER 2023**] A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <font color=Orange>(CCF A, short paper)</font> <font color=grey>[Arxiv](https://arxiv.org/abs/2308.00452) [DOI](10.1109/ASE56229.2023.00137)</font>
 
 ### Co-Authored Papers
 - [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models  
-  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. <font color=Orange>(JCR Q1, CCF A)</font>
+  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. <font color=Orange>(JCR Q1, CCF A)</font> <font color=grey>[Arxiv][DOI]</font>
 - [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study  
-  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. <font color=Orange>(CCF B)</font>
+  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. <font color=Orange>(CCF B)</font> <font color=grey>[Arxiv][DOI]</font>
 - [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models  
-  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan. <font color=Orange>(CCF C)</font>
+  Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan. <font color=Orange>(CCF C)</font> <font color=grey>[Arxiv][DOI]</font>
 - A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models  
-  Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan. <font color=Orange>In submission</font>
+  Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan. <font color=Orange>In submission</font> <font color=grey>[Arxiv][DOI]</font>
 
