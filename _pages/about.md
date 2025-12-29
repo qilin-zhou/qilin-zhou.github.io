@@ -10,6 +10,7 @@ Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at
 
 His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
+**Languages**: Cantonese (Native), Mandarin (Native), English (Fluent/Professional Proficiency)
 
 Publications
 ======
@@ -62,7 +63,6 @@ Experiences
 
 Teaching
 ======
-**Languages**: Cantonese (Native), Mandarin (Native), English (Fluent/Professional Proficiency)
 - CityU CS2311 **Computer Programming**
  <!--  <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  -->
   <i>Head TA, Tutor of Tutorials</i>
