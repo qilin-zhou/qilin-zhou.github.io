@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). He earned his B.Eng. in Software Engineering from the Outstanding Engineer Program at South China University of Technology in 2022.  
+Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
 
 His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
@@ -48,7 +48,7 @@ Education
 City University of Hong Kong 
 * **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)
 
-**B.Eng. in Software Engineering (Outstanding Class)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
+**B.Eng. in Software Engineering (Outstanding Engineer Program)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
 South China University of Technology
 * **Minor:** Finance
 * **Honors:** University Scholarship
