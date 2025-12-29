@@ -30,6 +30,5 @@ Publications
   Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. <span style="color: Orange;">(CCF B)</span>   
 - [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>  
   Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, Bo Jiang, W. K. Chan. <span style="color: Orange;">(CCF C)</span>
-- A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models  
-  Zhengyuan Wei, Haipeng Wang, **Qilin Zhou**, W. K. Chan. <span style="color: Orange;">In submission</span>  <span style="color: grey;">[Arxiv][DOI]</span>
+
 
