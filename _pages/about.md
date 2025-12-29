@@ -10,6 +10,8 @@ Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at
 
 His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
+He is a native speaker of Cantonese and Mandarin, with professional working proficiency in English.
+
 Publications
 ======
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -33,7 +35,7 @@ _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
   _ACM Transactions on Software Engineering and Methodology_ <span style="color: Orange;"> (JCR Q1, CCF A)</span>
 - [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
-  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yuhan Liao.  
+  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yihan Liao.  
   _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ <span style="color: Orange;"> (CCF B)</span> 
 - [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
