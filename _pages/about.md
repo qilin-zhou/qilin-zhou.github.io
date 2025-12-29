@@ -61,10 +61,10 @@ Experiences
 
 Teaching
 ======
-- CityU CS2311 **Computer Programming**
+- CityU CS2311 **Computer Programming** 2024-2025/2025-2026 Sem B
  <!--  <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  -->
   <i>Head TA, Tutor of Tutorials</i>
-- CityU CS5351 **Software Engineering**
+- CityU CS5351 **Software Engineering** 2024-2025/2025-2026 Sem A
   <i>Head TA, Tutor of Tutorials</i>
 - CityU CS2311 **Computer Programming**, 2023-2024 Sem B  
   <i>TA, Tutor of Tutorials</i>
