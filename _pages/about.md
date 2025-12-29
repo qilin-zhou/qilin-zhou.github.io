@@ -24,7 +24,7 @@ Publications
   **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, W. K. Chan. <span style="color: Orange;">(CCF A, short paper)</span>
 
 ### Co-Authored Papers
-- [**TOSEM (2024)**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>    
+- [**TOSEM 2024**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>    
   Haipeng Wang, Zhengyuan Wei, **Qilin Zhou**, W. K. Chan. <span style="color: Orange;">(JCR Q1, CCF A)</span>
 - [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[Arxiv][DOI]</span>  
   Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, **Qilin Zhou**, Yuhan Liao. <span style="color: Orange;">(CCF B)</span>   
