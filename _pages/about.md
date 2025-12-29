@@ -63,10 +63,10 @@ Experiences
 ======
 
 **Alibaba** | Software Design Engineer in Test | summer intern <i>(with return offer)</i> <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
-<i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of automated testing platform.</span></i>
+* <i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of automated testing platform.</span></i>
 
 **Tencent** | Software Design Engineer in Test | daily intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
-<i><span style="font-size: 90%;"> UI automated testing.</span></i>
+* <i><span style="font-size: 90%;"> UI automated testing.</span></i>
 
 <br>
 
