@@ -29,10 +29,10 @@ _IEEE transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
 
 ### Co-Authored Papers
 - [**TOSEM 2024**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>    
-  Haipeng Wang, Zhengyuan Wei, __**<ins>Qilin Zhou</ins>**__, W. K. Chan. <span style="color: Orange;"> (JCR Q1, CCF A)</span>
+  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan. <span style="color: Orange;"> (JCR Q1, CCF A)</span>
 - [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[Arxiv][DOI]</span>  
-  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, __Qilin Zhou__, Yuhan Liao. <span style="color: Orange;"> (CCF B)</span>   
+  Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yuhan Liao. <span style="color: Orange;"> (CCF B)</span>   
 - [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>  
-  Haipeng Wang, Zhengyuan Wei, __Qilin Zhou__, Bo Jiang, W. K. Chan. <span style="color: Orange;"> (CCF C)</span>
+  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan. <span style="color: Orange;"> (CCF C)</span>
 
 
