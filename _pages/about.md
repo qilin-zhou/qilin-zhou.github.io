@@ -41,6 +41,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
  _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
 
+
 Education
 ======
 
@@ -52,6 +53,7 @@ City University of Hong Kong
 South China University of Technology
 * **Minor:** Finance
 * **Honors:** University Scholarships
+
 
 Experiences
 ======
