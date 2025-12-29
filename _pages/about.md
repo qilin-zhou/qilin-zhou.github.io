@@ -28,13 +28,13 @@ _IEEE transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
   _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ <span style="color: Orange;"> (CCF A, short paper)</span>
 
 ### Co-Authored Papers
-- [**TOSEM 2024**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[DOI](https://doi.org/10.1145/3680464)</span>    
+- [**TOSEM 2024**] Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
   _ACM Transactions on Software Engineering and Methodology_ <span style="color: Orange;"> (JCR Q1, CCF A)</span>
-- [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[DOI](https://doi.org/10.1109/SANER60148.2024.00055)</span>  
+- [**SANER 2024**] Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
   Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yuhan Liao.  
   _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ <span style="color: Orange;">(CCF B)</span> 
-- [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[Arxiv][DOI]</span>  
+- [**QRS 2023**] Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
  _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
 
