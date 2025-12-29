@@ -6,23 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
+I am a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
 
-His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
+My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**.
 
-He is a native speaker of Cantonese and Mandarin, with professional working proficiency in English.
+I am a native speaker of Cantonese and Mandarin, with professional working proficiency in English.
 
 Publications
 ======
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ### First-Author Papers
-- [**TRel 2025**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
+-  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
-_IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)</span>
-- [**QRS 2025**] Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
+_IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1, CCF C)</span>
+-  Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
   **<ins>Qilin Zhou</ins>**, Haipeng Wang, Zhengyuan Wei, W. K. Chan.  
-  _2025 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
+  _2025 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2025**)<span style="color: Orange;"> (CCF C)</span>
 - [**FSE 2024**] CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models    <span style="color: grey;">[[PDF](https://arxiv.org/abs/2405.07668)] [[DOI](https://doi.org/10.1145/3660827)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan.  
   _Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE_ <span style="color: Orange;"> (CCF A)</span>
