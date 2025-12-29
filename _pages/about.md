@@ -61,5 +61,11 @@ Experiences
 
 Teaching
 ======
-CS5351 **Software Engineering**
+- CityU CS2311 **Computer Programming**, 2024-2025/2025-2026 Sem B, Head TA, Tutor of Tutorials
+- CityU CS5351 **Software Engineering**, 2024-2025/2025-2026 Sem A, Head TA, Tutor of Tutorials
+- CityU CS5351 **Software Engineering**, 2023-2024 Sem B, TA, Tutor of Tutorials
+- CityU CS2311 **Computer Programming**, 2023-2024 Sem A, TA, Tutor of Tutorials
+- CityU CS5348 **Software Quality Engineering**, 2022-2023 Sem B, TA
+- CityU CS3346 **Software Testing and Maintenance**, 2022-2023 Sem A, TA
+
 
