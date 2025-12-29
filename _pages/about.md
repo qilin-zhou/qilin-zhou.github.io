@@ -12,6 +12,7 @@ My research interests lie at the intersection of **Software Engineering (SE)** a
 
 I am a native speaker of Cantonese and Mandarin, with professional working proficiency in English.
 
+<br>
 
 Publications
 ======
@@ -42,6 +43,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
  _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (**QRS 2023**) (CCF C)</span>
 
+<br>
 
 Education
 ======
@@ -55,6 +57,7 @@ South China University of Technology
 * **Minor:** Finance
 * **Honors:** University Scholarships
 
+<br>
 
 Experiences
 ======
@@ -64,6 +67,8 @@ Experiences
 
 **Tencent** | Software Design Engineer in Test | daily intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
 <i><span style="font-size: 90%;"> UI automated testing.</span></i>
+
+<br>
 
 Teaching
 ======
