@@ -45,4 +45,4 @@ Experiences
 <i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of automated testing platform.</span></i>
 
 **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021  
-<i><span style="font-size: 90%;"> UI automated testing.</span><\i>
+<i><span style="font-size: 90%;"> UI automated testing.</span></i>
