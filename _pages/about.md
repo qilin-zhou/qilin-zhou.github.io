@@ -14,7 +14,7 @@ Publications
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ### First-Author Papers
-- [**IEEE TRel (Accpeted in 2025)**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)]</span>  
+- [**IEEE TRel 2025**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)]</span>  (Just Accpeted)
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
 _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)</span>
 - [**QRS 2025**] Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
