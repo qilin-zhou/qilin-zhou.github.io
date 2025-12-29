@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-body, h1, h2, p {
-  font-family: "Segoe UI", Arial, sans-serif;
-}
+<style>
+  body, h1, h2, h3, h4, h5, h6, p, li {
+    font-family: "Segoe UI", Arial, sans-serif !important;
+  }
+</style>
 
 I am a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
 
