@@ -40,10 +40,9 @@ _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
 
 Experience
 ======
-### Industrial Experience
 
-**Alibaba** | Software Design Engineer in Test (SDET) | summer intern (with return offer) | Jul 2021 - Sep 2021
-- Project quality assurance and full-stack development of automated testing platform.
+- **Alibaba** | Software Design Engineer in Test (SDET) | summer intern (with return offer) | Jul 2021 - Sep 2021
+Project quality assurance and full-stack development of automated testing platform.
 
-**Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021
-- UI automated testing.
+- **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021
+UI automated testing.
