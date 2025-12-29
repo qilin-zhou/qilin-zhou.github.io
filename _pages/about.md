@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). He earned his B.Eng. in Software Engineering from the Outstanding Engineer Program at South China University of Technology in 2022. His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
+Qilin Zhou is a 4th-year PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). He earned his B.Eng. in Software Engineering from the Outstanding Engineer Program at South China University of Technology in 2022.  
+His research interests lie at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with a specific focus on Formal Quality Assurance for AI.
 
 
 Publications
@@ -14,7 +15,7 @@ Publications
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ### First-Author Papers
-- [**TRel 2025**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)]</span>  (Just Accpeted)  
+- [**TRel 2025**] HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
 _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)</span>
 - [**QRS 2025**] Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
@@ -58,5 +59,7 @@ Experiences
 **Tencent** | Software Design Engineer in Test | daily intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
 <i><span style="font-size: 90%;"> UI automated testing.</span></i>
 
-
+Teaching
+======
+CS5351 **Software Engineering**
 
