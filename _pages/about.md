@@ -41,7 +41,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
   _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ (**SANER 2024**) <span style="color: Orange;"> (CCF B)</span> 
 - Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
- _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (**QRS 2023**) (CCF C)</span>
+ _2023 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2023**) <span style="color: Orange;"> (CCF C)</span>
 
 <br>
 
