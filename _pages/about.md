@@ -38,6 +38,17 @@ _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
  _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
 
+Education
+======
+
+**PhD in Computer Science** <span style="float: right;">2022–present</span>  
+City University of Hong Kong 
+<!-- <span style="float: right; font-size: 90%; color: gray; font-style: italic;">Passed the Qualifying Exam</span> -->
+
+
+**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right;">2018–2022</span>  
+South China University of Technology
+
 Experiences
 ======
 
@@ -47,12 +58,3 @@ Experiences
 **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021  
 <i><span style="font-size: 90%;"> UI automated testing.</span></i>
 
-Education
-======
-
-**PhD in Computer Science** <span style="float: right;">2022–present</span>  
-City University of Hong Kong <span style="float: right; font-size: 90%; color: gray; font-style: italic;">Passed the Qualifying Exam</span>
-
-
-**Bachelor Major in Software Engineering (Outstanding Class), Minor in Finance** <span style="float: right;">2018–2022</span>  
-South China University of Technology
