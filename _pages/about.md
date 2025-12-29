@@ -38,11 +38,11 @@ _IEEE Transactions on Reliability_ <span style="color: Orange;"> (JCR Q1, CCF C)
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
  _2023 25th International Conference on Software Quality, Reliability and Security_ <span style="color: Orange;"> (CCF C)</span>
 
-Experience
+Experiences
 ======
 
 - **Alibaba** | Software Design Engineer in Test (SDET) | summer intern (with return offer) | Jul 2021 - Sep 2021
-Project quality assurance and full-stack development of automated testing platform.
+-- Project quality assurance and full-stack development of automated testing platform.
 
 - **Tencent** | Software Design Engineer in Test (SDET) | daily intern | Dec 2020 - Apr 2021
-UI automated testing.
+-- UI automated testing.
