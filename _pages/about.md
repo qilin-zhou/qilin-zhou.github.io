@@ -15,7 +15,7 @@ Publications
 
 ### First-Author Papers
 - [**T-Rel (2025)**] Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples  
-  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Zheng Wang, W. K. Chan. <font color=Orange>(JCR Q1, CCF C)</font>
+  **Qilin Zhou**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan. <font color=Orange>(JCR Q1, CCF C)</font>
 - [**QRS 2025**] Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions  
   **Qilin Zhou**, Haipeng Wang, Zhengyuan Wei, W. K. Chan. <font color=Orange>(CCF C)</font>
 - [**FSE 2024**] CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models  
