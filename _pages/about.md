@@ -30,7 +30,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
   _Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE_ (**FSE 2024**) <span style="color: Orange;"> (CCF A)</span>
 - A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
-  _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ <span style="color: Orange;"> (**ASE-NIER 2023**)(CCF A, short paper)</span>
+  _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ (**ASE-NIER 2023**) <span style="color: Orange;"> (CCF A, short paper)</span>
 
 ### Co-Authored Papers
 - Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
