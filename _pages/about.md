@@ -41,10 +41,10 @@ Publications
 ### Journal Papers
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
-_IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1, Impact Factor: 5.7)</span>
+_IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1, IF: 5.7)</span>
 - Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[PDF](https://arxiv.org/abs/2407.12428)][[DOI](https://doi.org/10.1145/3680464)]</span>    
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.   
-  _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1, Impact Factor: 6.2)</span>
+  _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1, IF: 6.2)</span>
 
 <br>
 
