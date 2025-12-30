@@ -12,7 +12,7 @@ I am a 4th-year PhD candidate in the [Department of Computer Science](https://ww
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**.
 
-I am a native speaker of both Cantonese and Mandarin, with professional working proficiency in English.
+I am a native speaker of both Cantonese and Mandarin.
 
 <br>
 
