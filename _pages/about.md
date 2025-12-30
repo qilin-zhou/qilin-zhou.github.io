@@ -19,7 +19,7 @@ I am a native speaker of both Cantonese and Mandarin.
 
 Publications
 ======
-<i> <span style="font-size: 90%;"> (<u>Self</u>; **First author**) You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</span></i>
+<span style="font-size: 90%;"> (<u>Self</u>; **First author**) <i> You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</i></span>
 
 ### Conference Papers
 -  Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
