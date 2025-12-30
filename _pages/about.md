@@ -20,7 +20,7 @@ I am a native speaker of both Cantonese and Mandarin.
 Publications
 ======
 (<u>Self</u>; **First author**)   
-You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-TW).
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-HK).
 
 
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
