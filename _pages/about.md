@@ -56,7 +56,7 @@ Education
 City University of Hong Kong 
 * **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)   
 
-<div style="height: 0.8em;"></div>
+<div style="height: 0.75em;"></div>
 
 **B.Eng. in Software Engineering (Outstanding Engineer Program)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
 South China University of Technology
@@ -70,7 +70,7 @@ Experiences
 **Alibaba** | Software Design Engineer in Test | Summer intern <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
 * <i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of the automated testing platform.</span></i>   
 
-<div style="height: 0.8em;"></div>
+<div style="height: 0.75em;"></div>
 
 **Tencent** | Software Design Engineer in Test | Daily intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
 * <i><span style="font-size: 90%;"> UI automated testing.</span></i>
