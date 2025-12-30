@@ -63,7 +63,7 @@ South China University of Technology
 Experiences
 ======
 
-**Alibaba** | Software Design Engineer in Test | Summer intern <i>(with return offer)</i> <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
+**Alibaba** | Software Design Engineer in Test | Summer intern <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
 * <i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of automated testing platform.</span></i>
 
 **Tencent** | Software Design Engineer in Test | Daily intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
@@ -74,15 +74,15 @@ Experiences
 Teaching
 ======
 <!--  <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  -->
-- CityU CS2311 **Computer Programming**
-  * 2024-2025 & 2025-2026 Sem B \| <i> Head TA, Tutor of Tutorials</i>
-  * 2023-2024 Sem B \| <i>TA, Tutor of Tutorials</i>
 - CityU CS5351 **Software Engineering**
   * 2024-2025 & 2025-2026 Sem A \| <i>Head TA, Tutor of Tutorials</i>
   * 2023-2024 Sem A \| <i>TA, Tutor of Tutorials</i>
+- CityU CS2311 **Computer Programming**
+  * 2023-2024 & 2024-2025 & 2025-2026 Sem B \| <i> TA, Tutor of Tutorials</i>
 - CityU CS5348 **Software Quality Engineering**
   * 2022-2023 Sem B \| <i>TA</i>
 - CityU CS3346 **Software Testing and Maintenance**
   * 2022-2023 Sem A \| <i>TA</i>
+
   
 
