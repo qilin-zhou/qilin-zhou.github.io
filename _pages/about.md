@@ -19,7 +19,7 @@ I am a native speaker of both Cantonese and Mandarin.
 <!-- <div class="wordwrap"> You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> -->
 Publications
 ======
-(<u>Self</u>; **First author**)
+(<u>Self</u>; **First author**)   
 You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-TW).
 
 
