@@ -55,6 +55,7 @@ Education
 City University of Hong Kong 
 * **Honors:** Research Tuition Scholarship (RTS) and Postgraduate Studentship (PGS)   
 
+<div style="height: 0.5em;"></div>
 
 **B.Eng. in Software Engineering (Outstanding Engineer Program)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
 South China University of Technology
