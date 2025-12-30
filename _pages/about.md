@@ -20,7 +20,7 @@ I am a native speaker of both Cantonese and Mandarin.
 Publications
 ======
 <div class="wordwrap"> <span style="font-size: 90%;"> (<u>Self</u>; **First author**)   
-You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-HK).</span></div>
+You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</span></div>
 
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
