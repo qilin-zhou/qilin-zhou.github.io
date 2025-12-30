@@ -20,7 +20,7 @@ Publications
 ======
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-### First-Author Papers
+
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
 _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1)</span>
@@ -34,7 +34,7 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
   _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ (**ASE-NIER 2023**) <span style="color: Orange;"> (CCF A, short paper)</span>
 
-### Co-Authored Papers
+
 - Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
   _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1)</span>
