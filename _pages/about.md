@@ -57,7 +57,6 @@ City University of Hong Kong
 **B.Eng. in Software Engineering (Outstanding Engineer Program)** <span style="float: right; font-style: italic;">2018 - 2022</span>  
 South China University of Technology
 * **Minor:** Finance
-* **Honors:** University Scholarships
 
 <br>
 
