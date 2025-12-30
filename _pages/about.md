@@ -15,7 +15,6 @@ My research interests lie at the intersection of **Software Engineering (SE)** a
 I am a native speaker of both Cantonese and Mandarin.
 
 <br>
-
 <!-- <div class="wordwrap"> You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> -->
 
 Publications
@@ -34,8 +33,6 @@ _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;">
 - A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
   _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ (**ASE-NIER 2023**) <span style="color: Orange;"> (CCF A, short paper)</span>
-
-
 - Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
   Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
   _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1)</span>
