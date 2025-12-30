@@ -28,22 +28,22 @@ Publications
 - CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models    <span style="color: grey;">[[PDF](https://arxiv.org/abs/2405.07668)] [[DOI](https://doi.org/10.1145/3660827)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W. K. Chan.  
   _2024 32nd ACM International Conference on the Foundations of Software Engineering_ (**FSE 2024**) <span style="color: Orange;"> (CCF A)</span>
-- Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
+- Delving into parameter-efficient fine-tuning in code change learning: An empirical study <span style="color: grey;">[[PDF](https://arxiv.org/abs/2402.06247)][[DOI](https://doi.org/10.1109/SANER60148.2024.00055)]</span>  
   Shuo Liu, Jacky Keung, Zhen Yang, Fang Liu, <ins>Qilin Zhou</ins>, Yihan Liao.  
   _2024 IEEE International Conference on Software Analysis, Evolution and Reengineering_ (**SANER 2024**) <span style="color: Orange;"> (CCF B)</span>
 - A Majority Invariant Approach to Patch Robustness Certification for Deep Learning Models  <span style="color: grey;">[[PDF](https://arxiv.org/abs/2308.00452)] [[DOI](https://doi.org/10.1109/ASE56229.2023.00137)]</span>  
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, W. K. Chan.  
   _2023 38th IEEE/ACM International Conference on Automated Software Engineering_ (**ASE-NIER 2023**) <span style="color: Orange;"> (CCF A, short paper)</span>
-- Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
-  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.  
+- Aster: Encoding Data Augmentation Relations into Seed Test Suites for Robustness Assessment and Fuzzing of Data-Augmented Deep Learning Models <span style="color: grey;">[[PDF](https://www.cs.cityu.edu.hk/~wkchan/papers/qrs2023-wang+wei+zhou+jaing+chan.pdf)][[DOI](https://doi.org/10.1109/QRS60937.2023.00044)]</span>  
+  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, Bo Jiang, W. K. Chan.   
  _2023 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2023**) <span style="color: Orange;"> (CCF C)</span>
  
 ### Journal Papers
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
 _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1, Impact Factor: 5.7)</span>
-- Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[DOI](https://doi.org/10.1145/3680464)]</span>    
-  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.  
+- Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[PDF](https://arxiv.org/abs/2407.12428)][[DOI](https://doi.org/10.1145/3680464)]</span>    
+  Haipeng Wang, Zhengyuan Wei, <ins>Qilin Zhou</ins>, W. K. Chan.   
   _ACM Transactions on Software Engineering and Methodology_ (**TOSEM 2024**) <span style="color: Orange;"> (JCR Q1, Impact Factor: 6.2)</span>
 
 <br>
