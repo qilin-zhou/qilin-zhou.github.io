@@ -20,7 +20,8 @@ Publications
 ======
 <!-- <div class="wordwrap"> You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> -->
   
-<u>My name</u> is underlined, and shown in **bold** when I am the first author. You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-TW).
+My name is <u>underlined</u> and **bolded** for first authorship.  
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FDm6_6IAAAAJ&hl=zh-TW).
 
 
 -  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
