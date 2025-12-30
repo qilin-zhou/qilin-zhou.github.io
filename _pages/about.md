@@ -78,7 +78,7 @@ Teaching
   * 2024-2025 & 2025-2026 Sem A \| <i>Head TA, Tutor of Tutorials</i>
   * 2023-2024 Sem A \| <i>TA, Tutor of Tutorials</i>
 - CityU CS2311 **Computer Programming**
-  * 2023-2024 & 2024-2025 & 2025-2026 Sem B \| <i> TA, Tutor of Tutorials</i>
+  * 2023-2024 & 2024-2025 & 2025-2026 Sem B \| <i> TA, Instructor of Tutorials</i>
 - CityU CS5348 **Software Quality Engineering**
   * 2022-2023 Sem B \| <i>TA</i>
 - CityU CS3346 **Software Testing and Maintenance**
