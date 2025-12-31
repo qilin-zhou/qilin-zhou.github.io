@@ -88,6 +88,7 @@ Teaching
   * 2022-2023 Sem A \| <i>TA</i>
 
 ### Supervision 
-- CityU Master's Guided Study (Co-supervised)
+- CityU **Master's Guided Study**
+    * 2023-2024 Sem A \| <i>Co-supervisor</i>
  
 
