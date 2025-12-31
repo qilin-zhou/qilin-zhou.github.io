@@ -1,11 +1,3 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DH981245E8"></script>
 <script>
@@ -15,6 +7,14 @@ redirect_from:
 
   gtag('config', 'G-DH981245E8');
 </script>
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi, I am Qilin (Alan), currently a 4th-year PhD candidate in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
 
