@@ -76,7 +76,7 @@ Experiences
 
 Teaching
 ======
-<!--  <span style="float: right; font-style: italic;"> 2024-2025/2025-2026 Sem B  </span>  -->
+### Course
 - CityU CS5351 **Software Engineering**
   * 2024-2025 & 2025-2026 Sem A \| <i>Head TA, (Collaborative) Tutor of Tutorials</i>
   * 2023-2024 Sem A \| <i>TA, (Collaborative) Tutor of Tutorials</i>
@@ -87,5 +87,7 @@ Teaching
 - CityU CS3346 **Software Testing and Maintenance**
   * 2022-2023 Sem A \| <i>TA</i>
 
-  
+### Supervision 
+- CityU Master's Guided Study (Co-supervised)
+ 
 
