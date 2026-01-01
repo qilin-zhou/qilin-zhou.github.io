@@ -65,12 +65,12 @@ Experiences
 ======
 
 **Alibaba** | Software Design Engineer in Test | Full-time intern <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
-* <i><span style="font-size: 90%;"> Daily project quality assurance and full-stack development of the automated testing platform.</span></i>   
+<!-- * <i><span style="font-size: 90%;"> Developed the automated testing infrastructure and conducted Comprehensive software quality assurance.</span></i>   -->
 
 <div style="height: 0.75em;"></div>
 
 **Tencent** | Software Design Engineer in Test | Part-time intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
-* <i><span style="font-size: 90%;"> UI automated testing.</span></i>
+<!-- * <i><span style="font-size: 90%;"> Developed, maintained and conduected UI automated testing.</span></i> -->
 
 <br>
 
@@ -78,10 +78,10 @@ Teaching
 ======
 ### Course
 - CityU CS5351 **Software Engineering**
-  * 2024, 2025 \| <i>Head TA, (Collaborative) Tutor of Tutorials</i>
-  * 2023 Sem A \| <i>TA, (Collaborative) Tutor of Tutorials</i>
+  * 2024, 2025 \| <i>Head TA, Tutor of Tutorials (Collaborative)</i>
+  * 2023 Sem A \| <i>TA, Tutor of Tutorials (Collaborative)</i>
 - CityU CS2311 **Computer Programming**
-  * 2024 & 2025 & 2026 \| <i> TA, (Independent) Tutor of Tutorials</i>
+  * 2024 & 2025 & 2026 \| <i> TA, Tutor of Tutorials (Independent)</i>
 - CityU CS5348 **Software Quality Engineering**
   * 2022 \| <i>TA</i>
 - CityU CS3346 **Software Testing and Maintenance**
