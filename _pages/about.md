@@ -79,11 +79,11 @@ Teaching
 ### Course
 - CityU CS5351 **Software Engineering**
   * 2024, 2025 \| <i>Head TA, Tutor of Tutorials (Collaborative)</i>
-  * 2023 Sem A \| <i>TA, Tutor of Tutorials (Collaborative)</i>
+  * 2023 \| <i>TA, Tutor of Tutorials (Collaborative)</i>
 - CityU CS2311 **Computer Programming**
   * 2024 & 2025 & 2026 \| <i> TA, Tutor of Tutorials (Independent)</i>
 - CityU CS5348 **Software Quality Engineering**
-  * 2022 \| <i>TA</i>
+  * 2023 \| <i>TA</i>
 - CityU CS3346 **Software Testing and Maintenance**
   * 2022 \| <i>TA</i>
 
