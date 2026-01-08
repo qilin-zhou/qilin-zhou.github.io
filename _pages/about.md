@@ -11,7 +11,6 @@ Hi, I am Qilin (Alan), currently a 4th-year PhD candidate in the Department of C
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**.
 
-I am a native speaker of both Cantonese and Mandarin.
 
 <br>
 
@@ -81,7 +80,7 @@ Teaching
   * 2024, 2025 \| <i>Head TA, Tutor of Tutorials (Collaborative)</i>
   * 2023 \| <i>TA, Tutor of Tutorials (Collaborative)</i>
 - CityU CS2311 **Computer Programming**
-  * 2024 & 2025 & 2026 \| <i> TA, Tutor of Tutorials (Independent)</i>
+  * 2024 & 2025 & 2026 \| <i> TA, Tutor of Tutorials (Independent)</i> 
 - CityU CS5348 **Software Quality Engineering**
   * 2023 \| <i>TA</i>
 - CityU CS3346 **Software Testing and Maintenance**
@@ -92,5 +91,8 @@ Teaching
     * 2023 \| <i>Co-supervisor</i>
       * Topic: <i>Patch Robustness Certification for Deep Learning Models</i>   
 
+Language
+======
+I am a native speaker of both Cantonese and Mandarin.
  
 
