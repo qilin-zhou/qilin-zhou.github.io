@@ -36,7 +36,7 @@ Publications
  _2023 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2023**) <span style="color: Orange;"> (CCF C)</span>
  
 ### Journal Papers
--  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][DOI]</span>   
+-  HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples <span style="color: grey;">[[PDF](https://www.arxiv.org/abs/2512.06123)][[DOI](https://doi.org/10.1109/TR.2025.3642046)]</span>   
   **<ins>Qilin Zhou</ins>**, Zhengyuan Wei, Haipeng Wang, Zhuo Wang, W. K. Chan.  
 _IEEE Transactions on Reliability_ (**TRel 2025**) <span style="color: Orange;"> (JCR Q1, IF: 5.7)</span>
 - Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models <span style="color: grey;">[[PDF](https://arxiv.org/abs/2407.12428)][[DOI](https://doi.org/10.1145/3680464)]</span>    
