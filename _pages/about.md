@@ -10,7 +10,7 @@ redirect_from:
 Hi, I am Qilin (Alan), currently a 4th-year PhD candidate in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**. 
-In the context of **AI security**, my work centers on **Certified Machine Learning**.
+In the context of **AI security**, my work mainly centers on **Certified Machine Learning**.
 
 <br>
 
