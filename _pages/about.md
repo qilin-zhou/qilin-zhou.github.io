@@ -11,7 +11,8 @@ Hi, I am Qilin (Alan), currently a 4th-year PhD candidate in the Department of C
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**. 
 In the context of **AI security**, my work mainly centers on **Certified Machine Learning**.
-I am also interested in **LLMs for Education**.
+Beyond purely technical research, I also explore applications of **LLMs in Education**.
+
 
 <br>
 
