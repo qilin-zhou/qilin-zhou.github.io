@@ -24,7 +24,6 @@ Publications
 -  Impacts of Histories and Models on LLM Grading: A Study in Advanced Software Engineering Courses   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2606.08400)] </span>  
   **<ins>Qilin Zhou</ins>**, Zhuo Wang, Yue Li, W. K. Chan.  
   _2026 12th International Symposium on Educational Technology_ (**ISET 2026**)
-
 -  Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions   <span style="color: grey;"> [[PDF](https://arxiv.org/abs/2507.23335)] [[DOI](https://doi.org/10.1109/QRS65678.2025.00030)] </span>  
   **<ins>Qilin Zhou</ins>**, Haipeng Wang, Zhengyuan Wei, W. K. Chan.  
   _2025 25th International Conference on Software Quality, Reliability and Security_ (**QRS 2025**)<span style="color: Orange;"> (CCF C)</span>
