@@ -78,7 +78,7 @@ Teaching
 
 - HKMU COMP 4620SEF **Concurrent & Networks Programming**
 - HKMU COMP 3500SEF **Software Engineering**
-- 
+
 <hr style="border: none; border-top: 1px dashed #ccc;" />
 
 - CityU CS5351 **Software Engineering**
