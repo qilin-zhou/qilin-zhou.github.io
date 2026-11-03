@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Alan. I am now a lecturer at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=azhou&unit=ST&po=N).
+Hi, I am Alan. I am currently a lecturer at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=azhou&unit=ST&po=N).
 I obtained my PhD degree in Computer Science from City University of Hong Kong, supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/); and my Bachelor's degree in Software Engineering from South China University of Technology.
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, **Trustworthy AI**, and **LLMs in Education**.
