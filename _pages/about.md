@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Qilin (Alan), currently a 4th-year PhD candidate in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/).
+Hi, I am Alan. I am now a lecturer at [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=azhou&unit=ST&po=N).
+I obtained my PhD degree in Computer Science from City University of Hong Kong, supervised by [Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/); and my Bachelor's degree in Software Engineering from South China University of Technology.
 
-My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a specific focus on **Formal Quality Assurance for AI**. 
-In the context of **AI security**, my work mainly centers on **Certified Machine Learning**.
-Beyond purely technical research, I also explore applications of **LLMs in Education**.
+My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, **Trustworthy AI**, and **LLMs in Education**.
 
 
 <br>
@@ -71,16 +70,17 @@ Experiences
 **Alibaba** | Software Design Engineer in Test | Intern <span style="float: right; font-style: italic;"> Jul 2021 - Sep 2021  </span>  
 <!-- * <i><span style="font-size: 90%;"> Developed the automated testing infrastructure and conducted Comprehensive software quality assurance.</span></i>   -->
 
-<div style="height: 0.75em;"></div>
-
-**Tencent** | Software Design Engineer in Test | Intern <span style="float: right; font-style: italic;"> Dec 2020 - Apr 2021  </span>  
-<!-- * <i><span style="font-size: 90%;"> Developed, maintained and conduected UI automated testing.</span></i> -->
-
 <br>
 
 Teaching
 ======
 ### Course
+
+- HKMU COMP 4620SEF **Concurrent & Networks Programming**
+- HKMU COMP 3500SEF **Software Engineering**
+- 
+<hr style="border: none; border-top: 1px dashed #ccc;" />
+
 - CityU CS5351 **Software Engineering**
 - CityU CS2311 **Computer Programming**
 - CityU CS5348 **Software Quality Engineering**
@@ -90,8 +90,4 @@ Teaching
 - CityU **Master's Guided Study**
     *<i>Co-supervisor</i>
 
-Language
-======
-I am a native speaker of both Cantonese and Mandarin.
- 
 
