@@ -87,7 +87,7 @@ Teaching
 - CityU CS3346 **Software Testing and Maintenance**
 
 ### Supervision 
-- CityU **Master's Guided Study**
+- CityU **Master's Guided Study**<br>
     *<i>Co-supervisor</i>
 
 
